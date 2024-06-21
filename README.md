@@ -1,3 +1,5 @@
+# Hello 👋, I am instptr!
+
 # 💫 About Me:
 🤖 AI Enthusiast: Exploring AI models to understand the inner working, also enjoy creating object classification models for specific use cases..<br>⚙️ Automation: Enjoy automating software both front-end and back-end.<br>🛠️ Low-Level Languages: Find fun in learning harder low-level concepts to do with memory.
 
