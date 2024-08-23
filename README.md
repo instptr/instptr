@@ -29,8 +29,3 @@ Welcome to my github profile, browse through my repos to see my previous public 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=instptr&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=instptr&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=instptr&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
