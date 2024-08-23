@@ -1,5 +1,4 @@
-# 👋 Hello, I am instptr!
-Welcome to my github profile, browse through my repos to see my previous public work.
+# 👋 Hello!
 
 [![](https://visitcount.itsvg.in/api?id=instptr&icon=0&color=0)](https://visitcount.itsvg.in)
 
