@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
     <b>
-        <br>hi
+        <br>hello!
         <br><b>languages:</b> python javascript c++ html css
     </b>
   </samp>
